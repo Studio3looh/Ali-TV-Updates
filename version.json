@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 2,
-  "latest_version_name": "v1.1",
-  "apk_url": "https://github.com/Studio3looh/Ali-TV-Updates/releases/download/v1.1/Ali_TV_release.apk",
-  "release_notes": "🔹 حل مشكلة التحديث اليومي في شاشات السيارات\n🔹 ترتيب باقات الرياضة وقنوات beIN في المقدمة\n🔹 تحسينات عامة على سرعة وثبات البث",
+  "latest_version_code": 3,
+  "latest_version_name": "v1.2",
+  "apk_url": "https://github.com/Studio3looh/Ali-TV-Updates/releases/download/v1.2/Ali_TV_release.apk",
+  "release_notes": "🔹 تجديد تلقائي صامت للسيرفر في الخلفية كل 23 ساعة\n🔹 تنبيهات ذكية قبل انتهاء صلاحية السيرفر بساعتين\n🔹 إضافة قائمة آخر القنوات المشاهدة للتبديل السريع\n🔹 تحسينات في سرعة وثبات البث",
   "force_update": false
 }
 
