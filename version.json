@@ -1,8 +1,7 @@
 {
-  "latest_version_code": 3,
-  "latest_version_name": "v1.2",
-  "apk_url": "https://github.com/Studio3looh/Ali-TV-Updates/releases/download/v1.2/Ali_TV_release.apk",
-  "release_notes": "🔹 تجديد تلقائي صامت للسيرفر في الخلفية كل 23 ساعة\n🔹 تنبيهات ذكية قبل انتهاء صلاحية السيرفر بساعتين\n🔹 إضافة قائمة آخر القنوات المشاهدة للتبديل السريع\n🔹 تحسينات في سرعة وثبات البث",
-  "force_update": false
+  "latest_version_code": 4,
+  "latest_version_name": "v1.3",
+  "apk_url": "https://github.com/Studio3looh/Ali-TV-Updates/releases/download/v1.3/Ali_TV_release.apk",
+  "release_notes": "🔹 دعم شاشات التلفاز\n🔹 اصلاح الكراش اثناء المتابعة\n🔹 إضافة قائمة آخر القنوات المشاهدة للتبديل السريع\n🔹 تحسينات في سرعة وثبات البث",
+  "force_update": false
 }
-
