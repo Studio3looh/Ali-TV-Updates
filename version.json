@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 4,
-  "latest_version_name": "v1.3",
-  "apk_url": "https://github.com/Studio3looh/Ali-TV-Updates/releases/download/v1.3/Ali_TV_release.apk",
-  "release_notes": "🔹 دعم شاشات التلفاز\n🔹 اصلاح الكراش اثناء المتابعة\n🔹 إضافة قائمة آخر القنوات المشاهدة للتبديل السريع\n🔹 تحسينات في سرعة وثبات البث",
-  "force_update": false
+  "latest_version_code": 4,
+  "latest_version_name": "v1.3",
+  "apk_url": "https://github.com/Studio3looh/Ali-TV-Updates/releases/download/v1.3/Ali_TV_release.apk",
+  "release_notes": "🚀 تحديث Ali TV الإصدار v1.3:\n• تخصيص كامل وفائق السرعة للبث المباشر وحل مشكلة الذاكرة والانهيارات (OOM Fix).\n• حل مشكلة الشاشة السوداء عند الانتقال إلى وضع ملء الشاشة واستمرار البث بسلاسة تامة.\n• استعادة المشغل الذهبي الفاخر مع التحكم الكامل بالساعة، الأبعاد، الصوت والسطوع.\n• إيقاف البث تلقائياً عند الرجوع للرئيسية لتوفير باقة وبيانات الإنترنت.\n• تحسينات شاملة للتنقل عبر الريموت كنترول (Android TV / Xiaomi Box).",
+  "force_update": false
 }
